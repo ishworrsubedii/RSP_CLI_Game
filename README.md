@@ -2,20 +2,31 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    Rock-Paper-Scissors Game - README
+    <title>Rock-Paper-Scissors Game - README</title>
 </head>
 <body>
     <h1>Rock-Paper-Scissors Game</h1>
-    <p>This is a simple implementation of the classic game "rock-paper-scissors" in Python.</p>
-    <h2>How to Play</h2>
-    <p>To play the game, simply run the "rps_game.py" file in a Python interpreter. You will be prompted to make your move by entering "rock", "paper", or "scissors" (without quotes) when prompted. The computer will then make its move, and the winner will be determined according to the game's rules:</p>
+    <p>This is a simple implementation of the classic game of rock-paper-scissors in Python. The game allows the player to play against the computer and keeps track of the winner for each round.</p>
+    <h2>Requirements</h2>
     <ul>
-        <li>Rock beats scissors</li>
-        <li>Paper beats rock</li>
-        <li>Scissors beats paper</li>
+        <li>Python 3</li>
+        <li>No additional packages or libraries</li>
     </ul>
-    <p>If both the player and the computer choose the same move, it is a tie.</p>
-    <h2>HTML Version</h2>
-    <p>If you prefer, you can also play the game in a web browser using the "rps_game.html" file. Simply open the file in a web browser and click on one of the three buttons to make your move.</p>
+    <h2>How to Play</h2>
+    <ol>
+        <li>Clone the repository to your local machine.</li>
+        <li>Navigate to the project directory in your terminal.</li>
+        <li>Run the command <code>python rps_game.py</code> to start the game.</li>
+        <li>Enter your move when prompted (rock, paper, or scissors).</li>
+        <li>The computer will randomly choose its move, and the winner will be announced.</li>
+        <li>After the round is over, the player will be prompted to play again. Enter "yes" to play again or "no" to exit the game.</li>
+    </ol>
+    <h2>Features</h2>
+    <ul>
+        <li>Keeps track of the player's and computer's scores.</li>
+        <li>Allows the player to play multiple rounds.</li>
+        <li>Uses simple ASCII art to display the game board and the moves.</li>
+        <li>Prompts the player to enter a valid move if an invalid move is entered.</li>
+    </ul>
 </body>
 </html>
