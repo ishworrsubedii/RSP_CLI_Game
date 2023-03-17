@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Rock-Paper-Scissors Game - README</title>
+    
 </head>
 <body>
     <h1>Rock-Paper-Scissors Game</h1>
@@ -23,9 +23,8 @@
     </ol>
     <h2>Features</h2>
     <ul>
-        <li>Keeps track of the player's and computer's scores.</li>
         <li>Allows the player to play multiple rounds.</li>
-        <li>Uses simple ASCII art to display the game board and the moves.</li>
+        
         <li>Prompts the player to enter a valid move if an invalid move is entered.</li>
     </ul>
 </body>
