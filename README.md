@@ -16,7 +16,7 @@
     <ol>
         <li>Clone the repository to your local machine.</li>
         <li>Navigate to the project directory in your terminal.</li>
-        <li>Run the command <code>python rps_game.py</code> to start the game.</li>
+        <li>Run the command <code>python RSP.py</code> to start the game.</li>
         <li>Enter your move when prompted (rock, paper, or scissors).</li>
         <li>The computer will randomly choose its move, and the winner will be announced.</li>
         <li>After the round is over, the player will be prompted to play again. Enter "yes" to play again or "no" to exit the game.</li>
