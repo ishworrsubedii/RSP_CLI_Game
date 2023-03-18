@@ -24,7 +24,7 @@
     <h2>Features</h2>
     <ul>
         <li>Allows the player to play multiple rounds.</li>
-        <li>Prompts the player to enter a valid move if an invalid move is entered.</li>
+        <li>Prompts the player to enter a valid move if an invalid move is entered. </li>
     </ul>
 </body>
 </html>
